@@ -1,0 +1,10 @@
+{
+ "name" : "Re:パリピッピゲーム",
+ "tags" : "Game パリピ アクション",
+ "developer" : "(c)ぱりぴ組",
+ "snapshot" : "SS.png",
+ "readme" : "readme.md",
+ "exec" : "Re_ParipippiGame.exe",
+ "time" : "10分",
+ "difficulty" : "PARIPI"
+}
